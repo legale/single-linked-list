@@ -1,7 +1,7 @@
 #!/bin/bash
 # version changing script
 NAME=single-linked-list
-VERSION=0.1.0
+VERSION=0.1.1
 
 FROM="$NAME v[0-9]{1,2}.[0-9]{1,2}.[0-9]{1,2}"
 TO="$NAME v$VERSION"
